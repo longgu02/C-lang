@@ -1,0 +1,6 @@
+ID  Name    Midterm     Final
+1   Long    10          10
+2   Chi     8           8
+3   Phong   9           7.5
+4   Linh    6           10
+5   Tu      5           9.5
