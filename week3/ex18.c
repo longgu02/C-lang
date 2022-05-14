@@ -15,7 +15,7 @@ int main(){
     FILE *fptr;
     printf("How many contacts do you want to enter (<100)?: ");
     scanf(" %d", &n);
-    if((fptr = fopen("Contact.txt", "w+")) == NULL){
+    if((fptr = fopen("phonebook.dat", "w+b")) == NULL){
         printf("Can not open file");
         return -1;
     }
